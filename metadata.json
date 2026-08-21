@@ -1,0 +1,6 @@
+{
+  "name": "TopFlight XI",
+  "description": "Draft an all-time XI from real historical squads and chase a perfect season.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
